@@ -1,0 +1,2 @@
+# AutoMapperSample
+基于net5的AutoMapper的应用
